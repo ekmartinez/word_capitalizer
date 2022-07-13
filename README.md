@@ -16,3 +16,5 @@ capitalizer("I'm a little tea pot") should return the string I'm A Little Tea Po
 capitalizer("sHoRt AnD sToUt") should return the string Short And Stout.
 
 capitalizer("HERE IS MY HANDLE HERE IS MY SPOUT") should return the string Here Is My Handle Here Is My Spout.
+
+Source: Basic Algorithm Scripting (FreeCodeCamp.com)

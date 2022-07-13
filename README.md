@@ -9,13 +9,10 @@ Return the provided string with the first letter of each word capitalized. Make 
 
 For the purpose of this exercise, you should also capitalize connecting words like the and of.
 
-Waiting:titleCase("I'm a little tea pot") should return a string.
+capitalizer("I'm a little tea pot") should return a string.
 
+capitalizer("I'm a little tea pot") should return the string I'm A Little Tea Pot.
 
-Waiting:titleCase("I'm a little tea pot") should return the string I'm A Little Tea Pot.
+capitalizer("sHoRt AnD sToUt") should return the string Short And Stout.
 
-
-Waiting:titleCase("sHoRt AnD sToUt") should return the string Short And Stout.
-
-
-Waiting:titleCase("HERE IS MY HANDLE HERE IS MY SPOUT") should return the string Here Is My Handle Here Is My Spout.
+capitalizer("HERE IS MY HANDLE HERE IS MY SPOUT") should return the string Here Is My Handle Here Is My Spout.
